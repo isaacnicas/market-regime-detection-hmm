@@ -39,3 +39,35 @@ This project implements a **Hidden Markov Model (HMM)** to classify SPY into fou
 **Streamlit Live Dashboard** (coming soon — regime probabilities + allocation signals)
 
 ### Repository Structure
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>HMM Market Regime Classifier — SPY</title>
+<link href="https://fonts.googleapis.com/css2?family=Syne:wght@300;400;500;600;700&family=DM+Mono:wght@300;400;500&display=swap" rel="stylesheet">
+<script src="https://cdnjs.cloudflare.com/ajax/libs/Chart.js/4.4.1/chart.umd.js"></script>
+<style>
+  /* (Your existing beautiful CSS stays exactly the same) */
+  /* ... paste your full <style> block here ... */
+</style>
+</head>
+<body>
+
+<!-- Your existing HTML content stays the same until footer -->
+
+<footer>
+  <div>
+    <strong>HMM Market Regime Classifier — SPY</strong><br>
+    Python · hmmlearn · Walk-Forward Risk Overlay
+  </div>
+  <div style="text-align:right;">
+    <a href="https://github.com/yourusername/hmm-spy-regime-classifier" target="_blank" style="color:var(--accent); text-decoration:none; margin-right:20px;">GitHub →</a>
+    <a href="https://linkedin.com/in/yourprofile" target="_blank" style="color:var(--accent); text-decoration:none;">LinkedIn →</a>
+  </div>
+</footer>
+
+<!-- Rest of your scripts remain unchanged -->
+
+</body>
+</html>
